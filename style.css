@@ -32,6 +32,7 @@ margin:-10px;
     justify-content: space-between;
     padding-left:200px; 
     padding-right:200px;
+    /* position: fixed; */
 }
 h1,
 .headerlogo{
